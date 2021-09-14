@@ -5,7 +5,7 @@
   TileSize="254"
   >
   <Size 
-    Height="2160"
-    Width="3840"
+    Height="4320"
+    Width="7680"
   />
 </Image>
